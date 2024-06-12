@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.langlearn.chat.app-mergeDebugResources-31:/layout/recieved_msg.xml",
+        "source": "com.langlearn.chat.app-main-34:/layout/recieved_msg.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-mergeDebugResources-31:\\layout\\activity_log_in.xml",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\layout\\activity_log_in.xml"
+    },
+    {
+        "merged": "com.langlearn.chat.app-mergeDebugResources-31:/layout/sent_msg.xml",
+        "source": "com.langlearn.chat.app-main-34:/layout/sent_msg.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-mergeDebugResources-31:\\layout\\sent_msg.xml",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\layout\\sent_msg.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-mergeDebugResources-31:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-mergeDebugResources-31:\\layout\\recieved_msg.xml",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\layout\\recieved_msg.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-mergeDebugResources-31:\\layout\\user_layout.xml",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\layout\\user_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-mergeDebugResources-31:\\layout\\activity_chat.xml",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-mergeDebugResources-31:\\layout\\activity_sign_up.xml",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-mergeDebugResources-31:\\layout\\accaunt.xml",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\layout\\accaunt.xml"
+    }
+]

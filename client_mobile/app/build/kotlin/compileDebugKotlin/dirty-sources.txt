@@ -1,0 +1,12 @@
+C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\java\com\langlearn\chat\SignUp.kt
+C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\java\com\langlearn\chat\User.kt
+C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\java\com\langlearn\chat\MessageAdapter.kt
+C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\java\com\langlearn\chat\Message.kt
+C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\java\com\langlearn\chat\placeholder\PlaceholderContent.kt
+C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\java\com\langlearn\chat\AccauntActivity.kt
+C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\java\com\langlearn\chat\ChatActivity.kt
+C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\java\com\langlearn\chat\Login.kt
+C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\java\com\langlearn\chat\MainActivity.kt
+C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\java\com\langlearn\chat\MyItemRecyclerViewAdapter.kt
+C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\java\com\langlearn\chat\OkHttpRequests.kt
+C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\java\com\langlearn\chat\UserAdapter.kt

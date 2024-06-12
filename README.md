@@ -1,9 +1,10 @@
-# LangLearn
 
+# LangLearn
 <p align="center">
-  <img src="https://github.com/OrAnge-Lime/LangLearn/assets/71509624/245735d9-525e-42c7-8361-8923c2233499" alt="drawing" height="400"/>
-  <img src="https://github.com/OrAnge-Lime/LangLearn/assets/71509624/e75a981d-a9c3-43f6-abbd-2c2a4e74da22" alt="drawing" height="400"/>
+  <img src="https://github.com/OrAnge-Lime/LangLearn/assets/71509624/92e1ad9f-8c7c-4402-a8dd-ee7817473b54" alt="drawing" height="150"/>
 </p>
+<p align="center">Learning Languages with AI assistant</p>
+
 
 ## About This Project
  Development of a mobile application with an intelligent dialogue agent for learning foreign languages
@@ -21,7 +22,15 @@
   <img src="https://github.com/OrAnge-Lime/LangLearn/assets/71509624/594323e4-d67f-4c10-81b4-2bb683cc8aac" title="Android" height="80"/>&nbsp;
   <img src="https://github.com/OrAnge-Lime/LangLearn/assets/71509624/866b00f5-78da-43a1-a389-bd9f8374305a" title="Kotlin" height="80"/>&nbsp;
   <img src="https://github.com/OrAnge-Lime/LangLearn/assets/71509624/622d8a11-f680-4087-b5a7-22eae76cc52d" title="Flask" height="80"/>&nbsp;
-
- 
 </p>
+
+## Updates
+11.06.24: Finetune [Blenderbot](https://huggingface.co/docs/transformers/model_doc/blenderbot) model of application's NLP module on [Daily Dialog dataset](https://paperswithcode.com/dataset/dailydialog
+
+## Application Interface
+<p align="center">
+  <img src="https://github.com/OrAnge-Lime/LangLearn/assets/71509624/245735d9-525e-42c7-8361-8923c2233499" alt="drawing" height="400"/>
+  <img src="https://github.com/OrAnge-Lime/LangLearn/assets/71509624/e75a981d-a9c3-43f6-abbd-2c2a4e74da22" alt="drawing" height="400"/>
+</p>
+
 

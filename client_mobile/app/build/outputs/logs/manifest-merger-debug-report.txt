@@ -1,0 +1,313 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml:2:1-38:12
+MERGED from [androidx.databinding:viewbinding:7.3.1] C:\Users\orlov\.gradle\caches\transforms-3\ce562fa85c2b7f7e24d455401772df7b\transformed\viewbinding-7.3.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\orlov\.gradle\caches\transforms-3\1197e59a3a9fec71131f879f7e4ff605\transformed\material-1.9.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\orlov\.gradle\caches\transforms-3\9a25e6ba3af9f79e736172ef98a72300\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\orlov\.gradle\caches\transforms-3\ecee124cf6d57b18ff9e84d6ed8b50c7\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\orlov\.gradle\caches\transforms-3\ae3e0582f62eaca62c7992da0d30771a\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\908a91e02d9c62dc4ff6c76d6096a764\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\07535bb14fd082970eec41f9eac87ac9\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.0] C:\Users\orlov\.gradle\caches\transforms-3\c4f8280ebd7ad908c1506cd13434ca82\transformed\recyclerview-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\orlov\.gradle\caches\transforms-3\f435d4b518c6d26627cbd62a76a2857d\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\orlov\.gradle\caches\transforms-3\df9c551817163285f4c4f2f6af967dcd\transformed\activity-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\orlov\.gradle\caches\transforms-3\2e8c78d98e04fcf3ac04c02b7dfd73fe\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\orlov\.gradle\caches\transforms-3\4373b48854ffc6361aa02c58e247706b\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\1b5740b798985316a80a6066435f4120\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\orlov\.gradle\caches\transforms-3\162266db63ab3d4133c18384b1ab4531\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\orlov\.gradle\caches\transforms-3\dcdcf7c17d637485da2cdad7014917d6\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\2935667f9ca78079553dd921a1f18f31\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\orlov\.gradle\caches\transforms-3\e3c73029af4b44aba3464a0062b75aba\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\orlov\.gradle\caches\transforms-3\25e93c0ea94528b1ca9d1ed48a49408f\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\orlov\.gradle\caches\transforms-3\043aca45c6c56fc10719fca3fafdd5eb\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\1589a2ea07199a267182e1c150139261\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\5b5259b7c8196ee1a387b0db69adb816\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\4e0822e67250e8dee06f0a018dbd6cee\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\a79bc669cd701ffda86bc9d5474f6bfb\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\7a74104308ee2fbbfa3198882a9c72ad\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\orlov\.gradle\caches\transforms-3\ef5eed11792b613c162e9c01612c2e21\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\41fb15232df70d65d3963a252b28858c\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\b8ce0a7c4f0d4fad390c9241b2dd3140\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.10.1] C:\Users\orlov\.gradle\caches\transforms-3\dc0efd2d0ec633fca382359eecf9415d\transformed\core-1.10.1\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\da536124296287243306a77c60a154f3\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\orlov\.gradle\caches\transforms-3\6e125ae58db36c70458986ed69045fea\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\orlov\.gradle\caches\transforms-3\cb997e74491c0fd97efbe67f95ccfff6\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\orlov\.gradle\caches\transforms-3\12be01977a5d63714d66a7c1237d1481\transformed\core-ktx-1.10.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\orlov\.gradle\caches\transforms-3\ad24638bf5f3e868e591c02723aaa6b8\transformed\savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\orlov\.gradle\caches\transforms-3\83fb492d72faeaae075f893cfe7d304d\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\7d4398f4ba75cbd4991b530341de80e7\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\orlov\.gradle\caches\transforms-3\668de13949875da5732f8f2b4eedd60d\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\orlov\.gradle\caches\transforms-3\b9d6bc09df2f077f124e9a5fcada5b3b\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\9cfd180e2e94040d7f21e174475b5d8e\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\942448303225d0c68edfe2b7fdeef36f\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\orlov\.gradle\caches\transforms-3\bc676af615260a9c1c9af5683980f5f7\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\orlov\.gradle\caches\transforms-3\c5513b6a46323891f3374f4fac5d2a17\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\a159a70ddee3b4debd9547d6faafe0f5\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\orlov\.gradle\caches\transforms-3\7a1599d064dab6bdde313eae6f8c7241\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\orlov\.gradle\caches\transforms-3\e3b4b9db450769eb0b17fe84e0514dbd\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\orlov\.gradle\caches\transforms-3\659ae69f66576d13e6276bc7d3f41fb5\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\56a581e6588307787d3a37cbfcf99606\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\db63b19e90c13bafa01e32a074d2f90d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\908a04d759e85c542deb70df807009ef\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml:8:22-77
+application
+ADDED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml:10:5-36:19
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\orlov\.gradle\caches\transforms-3\1197e59a3a9fec71131f879f7e4ff605\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\orlov\.gradle\caches\transforms-3\1197e59a3a9fec71131f879f7e4ff605\transformed\material-1.9.0\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\orlov\.gradle\caches\transforms-3\9a25e6ba3af9f79e736172ef98a72300\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\orlov\.gradle\caches\transforms-3\9a25e6ba3af9f79e736172ef98a72300\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\orlov\.gradle\caches\transforms-3\4373b48854ffc6361aa02c58e247706b\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\orlov\.gradle\caches\transforms-3\4373b48854ffc6361aa02c58e247706b\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.10.1] C:\Users\orlov\.gradle\caches\transforms-3\dc0efd2d0ec633fca382359eecf9415d\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.10.1] C:\Users\orlov\.gradle\caches\transforms-3\dc0efd2d0ec633fca382359eecf9415d\transformed\core-1.10.1\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\orlov\.gradle\caches\transforms-3\668de13949875da5732f8f2b4eedd60d\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\orlov\.gradle\caches\transforms-3\668de13949875da5732f8f2b4eedd60d\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\orlov\.gradle\caches\transforms-3\bc676af615260a9c1c9af5683980f5f7\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\orlov\.gradle\caches\transforms-3\bc676af615260a9c1c9af5683980f5f7\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\orlov\.gradle\caches\transforms-3\c5513b6a46323891f3374f4fac5d2a17\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\orlov\.gradle\caches\transforms-3\c5513b6a46323891f3374f4fac5d2a17\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:requestLegacyExternalStorage
+		ADDED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml:18:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.10.1] C:\Users\orlov\.gradle\caches\transforms-3\dc0efd2d0ec633fca382359eecf9415d\transformed\core-1.10.1\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml:16:9-45
+	android:usesCleartextTraffic
+		ADDED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml:17:9-44
+activity#com.langlearn.chat.AccauntActivity
+ADDED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml:19:9-53
+	android:name
+		ADDED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml:19:19-50
+activity#com.langlearn.chat.ChatActivity
+ADDED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml:20:9-21:44
+	android:name
+		ADDED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml:21:13-41
+activity#com.langlearn.chat.SignUp
+ADDED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml:22:9-44
+	android:name
+		ADDED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml:22:19-41
+activity#com.langlearn.chat.Login
+ADDED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml:23:9-31:20
+	android:exported
+		ADDED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml:24:13-34
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml:29:27-74
+activity#com.langlearn.chat.MainActivity
+ADDED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml:32:9-35:58
+	android:exported
+		ADDED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml:34:13-36
+	android:theme
+		ADDED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml:35:13-56
+	android:name
+		ADDED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml:33:13-41
+uses-sdk
+INJECTED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.3.1] C:\Users\orlov\.gradle\caches\transforms-3\ce562fa85c2b7f7e24d455401772df7b\transformed\viewbinding-7.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:viewbinding:7.3.1] C:\Users\orlov\.gradle\caches\transforms-3\ce562fa85c2b7f7e24d455401772df7b\transformed\viewbinding-7.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\orlov\.gradle\caches\transforms-3\1197e59a3a9fec71131f879f7e4ff605\transformed\material-1.9.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.9.0] C:\Users\orlov\.gradle\caches\transforms-3\1197e59a3a9fec71131f879f7e4ff605\transformed\material-1.9.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\orlov\.gradle\caches\transforms-3\9a25e6ba3af9f79e736172ef98a72300\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\orlov\.gradle\caches\transforms-3\9a25e6ba3af9f79e736172ef98a72300\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\orlov\.gradle\caches\transforms-3\ecee124cf6d57b18ff9e84d6ed8b50c7\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\orlov\.gradle\caches\transforms-3\ecee124cf6d57b18ff9e84d6ed8b50c7\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\orlov\.gradle\caches\transforms-3\ae3e0582f62eaca62c7992da0d30771a\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\orlov\.gradle\caches\transforms-3\ae3e0582f62eaca62c7992da0d30771a\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\908a91e02d9c62dc4ff6c76d6096a764\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\908a91e02d9c62dc4ff6c76d6096a764\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\07535bb14fd082970eec41f9eac87ac9\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\07535bb14fd082970eec41f9eac87ac9\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.3.0] C:\Users\orlov\.gradle\caches\transforms-3\c4f8280ebd7ad908c1506cd13434ca82\transformed\recyclerview-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.0] C:\Users\orlov\.gradle\caches\transforms-3\c4f8280ebd7ad908c1506cd13434ca82\transformed\recyclerview-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\orlov\.gradle\caches\transforms-3\f435d4b518c6d26627cbd62a76a2857d\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\orlov\.gradle\caches\transforms-3\f435d4b518c6d26627cbd62a76a2857d\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\orlov\.gradle\caches\transforms-3\df9c551817163285f4c4f2f6af967dcd\transformed\activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] C:\Users\orlov\.gradle\caches\transforms-3\df9c551817163285f4c4f2f6af967dcd\transformed\activity-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\orlov\.gradle\caches\transforms-3\2e8c78d98e04fcf3ac04c02b7dfd73fe\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\orlov\.gradle\caches\transforms-3\2e8c78d98e04fcf3ac04c02b7dfd73fe\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\orlov\.gradle\caches\transforms-3\4373b48854ffc6361aa02c58e247706b\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\orlov\.gradle\caches\transforms-3\4373b48854ffc6361aa02c58e247706b\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\1b5740b798985316a80a6066435f4120\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\1b5740b798985316a80a6066435f4120\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\orlov\.gradle\caches\transforms-3\162266db63ab3d4133c18384b1ab4531\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\orlov\.gradle\caches\transforms-3\162266db63ab3d4133c18384b1ab4531\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\orlov\.gradle\caches\transforms-3\dcdcf7c17d637485da2cdad7014917d6\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\orlov\.gradle\caches\transforms-3\dcdcf7c17d637485da2cdad7014917d6\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\2935667f9ca78079553dd921a1f18f31\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\2935667f9ca78079553dd921a1f18f31\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\orlov\.gradle\caches\transforms-3\e3c73029af4b44aba3464a0062b75aba\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\orlov\.gradle\caches\transforms-3\e3c73029af4b44aba3464a0062b75aba\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\orlov\.gradle\caches\transforms-3\25e93c0ea94528b1ca9d1ed48a49408f\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\orlov\.gradle\caches\transforms-3\25e93c0ea94528b1ca9d1ed48a49408f\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\orlov\.gradle\caches\transforms-3\043aca45c6c56fc10719fca3fafdd5eb\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\orlov\.gradle\caches\transforms-3\043aca45c6c56fc10719fca3fafdd5eb\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\1589a2ea07199a267182e1c150139261\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\1589a2ea07199a267182e1c150139261\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\5b5259b7c8196ee1a387b0db69adb816\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\5b5259b7c8196ee1a387b0db69adb816\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\4e0822e67250e8dee06f0a018dbd6cee\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\4e0822e67250e8dee06f0a018dbd6cee\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\a79bc669cd701ffda86bc9d5474f6bfb\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\a79bc669cd701ffda86bc9d5474f6bfb\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\7a74104308ee2fbbfa3198882a9c72ad\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\7a74104308ee2fbbfa3198882a9c72ad\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\orlov\.gradle\caches\transforms-3\ef5eed11792b613c162e9c01612c2e21\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\orlov\.gradle\caches\transforms-3\ef5eed11792b613c162e9c01612c2e21\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\41fb15232df70d65d3963a252b28858c\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\41fb15232df70d65d3963a252b28858c\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\b8ce0a7c4f0d4fad390c9241b2dd3140\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\b8ce0a7c4f0d4fad390c9241b2dd3140\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.1] C:\Users\orlov\.gradle\caches\transforms-3\dc0efd2d0ec633fca382359eecf9415d\transformed\core-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.10.1] C:\Users\orlov\.gradle\caches\transforms-3\dc0efd2d0ec633fca382359eecf9415d\transformed\core-1.10.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\da536124296287243306a77c60a154f3\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\da536124296287243306a77c60a154f3\transformed\customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\orlov\.gradle\caches\transforms-3\6e125ae58db36c70458986ed69045fea\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\orlov\.gradle\caches\transforms-3\6e125ae58db36c70458986ed69045fea\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\orlov\.gradle\caches\transforms-3\cb997e74491c0fd97efbe67f95ccfff6\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\orlov\.gradle\caches\transforms-3\cb997e74491c0fd97efbe67f95ccfff6\transformed\lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\orlov\.gradle\caches\transforms-3\12be01977a5d63714d66a7c1237d1481\transformed\core-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.10.1] C:\Users\orlov\.gradle\caches\transforms-3\12be01977a5d63714d66a7c1237d1481\transformed\core-ktx-1.10.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\orlov\.gradle\caches\transforms-3\ad24638bf5f3e868e591c02723aaa6b8\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\orlov\.gradle\caches\transforms-3\ad24638bf5f3e868e591c02723aaa6b8\transformed\savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\orlov\.gradle\caches\transforms-3\83fb492d72faeaae075f893cfe7d304d\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\orlov\.gradle\caches\transforms-3\83fb492d72faeaae075f893cfe7d304d\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\7d4398f4ba75cbd4991b530341de80e7\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\7d4398f4ba75cbd4991b530341de80e7\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\orlov\.gradle\caches\transforms-3\668de13949875da5732f8f2b4eedd60d\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\orlov\.gradle\caches\transforms-3\668de13949875da5732f8f2b4eedd60d\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\orlov\.gradle\caches\transforms-3\b9d6bc09df2f077f124e9a5fcada5b3b\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\orlov\.gradle\caches\transforms-3\b9d6bc09df2f077f124e9a5fcada5b3b\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\9cfd180e2e94040d7f21e174475b5d8e\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\9cfd180e2e94040d7f21e174475b5d8e\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\942448303225d0c68edfe2b7fdeef36f\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\942448303225d0c68edfe2b7fdeef36f\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\orlov\.gradle\caches\transforms-3\bc676af615260a9c1c9af5683980f5f7\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\orlov\.gradle\caches\transforms-3\bc676af615260a9c1c9af5683980f5f7\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\orlov\.gradle\caches\transforms-3\c5513b6a46323891f3374f4fac5d2a17\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\orlov\.gradle\caches\transforms-3\c5513b6a46323891f3374f4fac5d2a17\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\a159a70ddee3b4debd9547d6faafe0f5\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\a159a70ddee3b4debd9547d6faafe0f5\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\orlov\.gradle\caches\transforms-3\7a1599d064dab6bdde313eae6f8c7241\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\orlov\.gradle\caches\transforms-3\7a1599d064dab6bdde313eae6f8c7241\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\orlov\.gradle\caches\transforms-3\e3b4b9db450769eb0b17fe84e0514dbd\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\orlov\.gradle\caches\transforms-3\e3b4b9db450769eb0b17fe84e0514dbd\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\orlov\.gradle\caches\transforms-3\659ae69f66576d13e6276bc7d3f41fb5\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\orlov\.gradle\caches\transforms-3\659ae69f66576d13e6276bc7d3f41fb5\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\56a581e6588307787d3a37cbfcf99606\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\56a581e6588307787d3a37cbfcf99606\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\db63b19e90c13bafa01e32a074d2f90d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\db63b19e90c13bafa01e32a074d2f90d\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\908a04d759e85c542deb70df807009ef\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\orlov\.gradle\caches\transforms-3\908a04d759e85c542deb70df807009ef\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\orlov\Angelina\AI\LangLern\ChatBotMobile\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\orlov\.gradle\caches\transforms-3\4373b48854ffc6361aa02c58e247706b\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\orlov\.gradle\caches\transforms-3\668de13949875da5732f8f2b4eedd60d\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\orlov\.gradle\caches\transforms-3\668de13949875da5732f8f2b4eedd60d\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\orlov\.gradle\caches\transforms-3\c5513b6a46323891f3374f4fac5d2a17\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\orlov\.gradle\caches\transforms-3\c5513b6a46323891f3374f4fac5d2a17\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\orlov\.gradle\caches\transforms-3\4373b48854ffc6361aa02c58e247706b\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\orlov\.gradle\caches\transforms-3\4373b48854ffc6361aa02c58e247706b\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\orlov\.gradle\caches\transforms-3\4373b48854ffc6361aa02c58e247706b\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\orlov\.gradle\caches\transforms-3\4373b48854ffc6361aa02c58e247706b\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\orlov\.gradle\caches\transforms-3\4373b48854ffc6361aa02c58e247706b\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\orlov\.gradle\caches\transforms-3\4373b48854ffc6361aa02c58e247706b\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\orlov\.gradle\caches\transforms-3\4373b48854ffc6361aa02c58e247706b\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\orlov\.gradle\caches\transforms-3\dc0efd2d0ec633fca382359eecf9415d\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] C:\Users\orlov\.gradle\caches\transforms-3\dc0efd2d0ec633fca382359eecf9415d\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\orlov\.gradle\caches\transforms-3\dc0efd2d0ec633fca382359eecf9415d\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+permission#com.langlearn.chat.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\orlov\.gradle\caches\transforms-3\dc0efd2d0ec633fca382359eecf9415d\transformed\core-1.10.1\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.10.1] C:\Users\orlov\.gradle\caches\transforms-3\dc0efd2d0ec633fca382359eecf9415d\transformed\core-1.10.1\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\orlov\.gradle\caches\transforms-3\dc0efd2d0ec633fca382359eecf9415d\transformed\core-1.10.1\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\orlov\.gradle\caches\transforms-3\dc0efd2d0ec633fca382359eecf9415d\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\orlov\.gradle\caches\transforms-3\dc0efd2d0ec633fca382359eecf9415d\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+uses-permission#com.langlearn.chat.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.10.1] C:\Users\orlov\.gradle\caches\transforms-3\dc0efd2d0ec633fca382359eecf9415d\transformed\core-1.10.1\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.10.1] C:\Users\orlov\.gradle\caches\transforms-3\dc0efd2d0ec633fca382359eecf9415d\transformed\core-1.10.1\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\orlov\.gradle\caches\transforms-3\668de13949875da5732f8f2b4eedd60d\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\orlov\.gradle\caches\transforms-3\668de13949875da5732f8f2b4eedd60d\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\orlov\.gradle\caches\transforms-3\668de13949875da5732f8f2b4eedd60d\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78

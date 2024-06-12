@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-merged_res-32:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-merged_res-32:\\drawable_end.png.flat",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\drawable\\end.png"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-merged_res-32:\\drawable_btn2_background.xml.flat",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\drawable\\btn2_background.xml"
+    },
+    {
+        "merged": "com.langlearn.chat.app-merged_res-32:/layout_sent_msg.xml.flat",
+        "source": "com.langlearn.chat.app-main-34:/layout/sent_msg.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-merged_res-32:\\drawable_sound2.png.flat",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\drawable\\sound2.png"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-merged_res-32:\\drawable_prev.png.flat",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\drawable\\prev.png"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-merged_res-32:\\drawable_reieved_msg_background.xml.flat",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\drawable\\reieved_msg_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-merged_res-32:\\layout_activity_log_in.xml.flat",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\layout\\activity_log_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-merged_res-32:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-merged_res-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-merged_res-32:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-pngs-27:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-merged_res-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-merged_res-32:\\layout_recieved_msg.xml.flat",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\layout\\recieved_msg.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-merged_res-32:\\layout_user_layout.xml.flat",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\layout\\user_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-merged_res-32:\\drawable_exit.png.flat",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\drawable\\exit.png"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-merged_res-32:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-merged_res-32:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-merged_res-32:\\drawable_send.png.flat",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\drawable\\send.png"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-merged_res-32:\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-merged_res-32:\\drawable_screen_background.xml.flat",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\drawable\\screen_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-merged_res-32:\\drawable_microphone.png.flat",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\drawable\\microphone.png"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-merged_res-32:\\drawable_sound.png.flat",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\drawable\\sound.png"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-merged_res-32:\\layout_activity_chat.xml.flat",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-merged_res-32:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-merged_res-32:\\drawable_star.png.flat",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\drawable\\star.png"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-merged_res-32:\\layout_sent_msg.xml.flat",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\layout\\sent_msg.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-merged_res-32:\\drawable_compass.png.flat",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\drawable\\compass.png"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-merged_res-32:\\drawable_edt_background.xml.flat",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\drawable\\edt_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-merged_res-32:\\drawable_message_box_background.xml.flat",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\drawable\\message_box_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-merged_res-32:\\drawable_btn1_background.xml.flat",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\drawable\\btn1_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-merged_res-32:\\drawable_settings.png.flat",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\drawable\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-merged_res-32:\\drawable_hat.png.flat",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\drawable\\hat.png"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-merged_res-32:\\drawable_microphone2.png.flat",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\drawable\\microphone2.png"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-merged_res-32:\\drawable_music.png.flat",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\drawable\\music.png"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-merged_res-32:\\drawable_avatar.png.flat",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\drawable\\avatar.png"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-merged_res-32:\\layout_accaunt.xml.flat",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\layout\\accaunt.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-merged_res-32:\\drawable_send_msg_background.xml.flat",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\drawable\\send_msg_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-merged_res-32:\\menu_menu.xml.flat",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\menu\\menu.xml"
+    },
+    {
+        "merged": "com.langlearn.chat.app-merged_res-32:/layout_recieved_msg.xml.flat",
+        "source": "com.langlearn.chat.app-main-34:/layout/recieved_msg.xml"
+    },
+    {
+        "merged": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-merged_res-32:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\orlov\\.gradle\\daemon\\7.4\\com.langlearn.chat.app-main-34:\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

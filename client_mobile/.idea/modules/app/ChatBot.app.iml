@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":app" external.linked.project.path="$MODULE_DIR$/../../../app" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="ChatBot" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":app" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" value="7.3.1" />
+        <option name="LAST_KNOWN_AGP_VERSION" value="7.3.1" />
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+      </configuration>
+    </facet>
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="4" platform="JVM 1.8" allPlatforms="JVM [1.8]" useProjectSettings="false">
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../../app/build/tmp/kotlin-classes/debug" />
+          <option name="classpath" value="$MODULE_DIR$/../../../app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar;C:/Users/orlov/.gradle/caches/transforms-2/files-2.1/5c84e0ff46982724ab8b13c23884a198/viewbinding-4.2.2-api.jar;C:/Users/orlov/.gradle/caches/transforms-2/files-2.1/e6485e77bab70faa6cd0d56c5f504cee/material-1.9.0-api.jar;C:/Users/orlov/.gradle/caches/transforms-2/files-2.1/ad369bd8c176a2594aaf3bbbca1dc57e/appcompat-1.6.1-api.jar;C:/Users/orlov/.gradle/caches/transforms-2/files-2.1/acd6e5b73d34eac314d4ffc1db6a3115/legacy-support-v4-1.0.0-api.jar;C:/Users/orlov/.gradle/caches/transforms-2/files-2.1/d259c8f652e717fa7609c2df6fccd997/viewpager2-1.0.0-api.jar;C:/Users/orlov/.gradle/caches/transforms-2/files-2.1/744f01c37d55f4c4bc45afa6749f3982/fragment-1.3.6-api.jar;C:/Users/orlov/.gradle/caches/transforms-2/files-2.1/ca9da0b23badb4c33ed3e65d4abfaef5/activity-1.6.0-api.jar;C:/Users/orlov/.gradle/caches/transforms-2/files-2.1/893a0bc36f464d83e5e899c07078458e/lifecycle-viewmodel-savedstate-2.5.1-api.jar;C:/Users/orlov/.gradle/caches/transforms-2/files-2.1/983bc103344439db56f89ffb34d34c67/core-ktx-1.10.1-api.jar;C:/Users/orlov/.gradle/caches/transforms-2/files-2.1/c0def5a83cced94d8ffd87bf0f0da465/recyclerview-1.3.0-api.jar;C:/Users/orlov/.gradle/caches/transforms-2/files-2.1/c31cfc93e8fe0a20cba29ede94b286b4/appcompat-resources-1.6.1-api.jar;C:/Users/orlov/.gradle/caches/transforms-2/files-2.1/dc1cd99cadd0700cd36627815d7401b0/legacy-support-core-ui-1.0.0-api.jar;C:/Users/orlov/.gradle/caches/transforms-2/files-2.1/ead9464381fa61f82aafd8d0537e7c2b/drawerlayout-1.1.1-api.jar;C:/Users/orlov/.gradle/caches/transforms-2/files-2.1/6f5d96eb3ef702033ae099ee62222ebb/coordinatorlayout-1.1.0-api.jar;C:/Users/orlov/.gradle/caches/transforms-2/files-2.1/ca450111e5ba05765a2f85ba7cfc62c1/dynamicanimation-1.0.0-api.jar;C:/Users/orlov/.gradle/caches/transforms-2/files-2.1/067c595620754088f0989c9bdac8763d/transition-1.2.0-api.jar;C:/Users/orlov/.gradle/caches/transforms-2/files-2.1/401e61cc7179ae2144b0492b2b094ae7/vectordrawable-animated-1.1.0-api.jar;C:/Users/orlov/.gradle/caches/transforms-2/files-2.1/93db7c06bbd45651903b5c21b5913ffd/vectordrawable-1.1.0-api.jar;C:/Users/orlov/.gradle/caches/transforms-2/files-2.1/8f90dc1dcc535083cd4e29deaef50ff8/media-1.0.0-api.jar;C:/Users/orlov/.gradle/caches/transforms-2/files-2.1/bc7265daf0ad71fbba7f9184ea21e44e/legacy-support-core-utils-1.0.0-api.jar;C:/Users/orlov/.gradle/caches/transforms-2/files-2.1/bb7d42812b14790e244f8a2047b3a840/viewpager-1.0.0-api.jar;C:/Users/orlov/.gradle/caches/transforms-2/files-2.1/3713b230961bc4b4429b52aa66c36a4a/slidingpanelayout-1.0.0-api.jar;C:/Users/orlov/.gradle/caches/transforms-2/files-2.1/6fceb45293f2526a14d5ba2fa2d8a7db/customview-1.1.0-api.jar;C:/Users/orlov/.gradle/caches/transforms-2/files-2.1/6a7b158a420895d3147abd478f9edf73/loader-1.0.0-api.jar;C:/Users/orlov/.gradle/caches/transforms-2/files-2.1/d5f8bcaafc5f6dd02109f85d7d300d87/swiperefreshlayout-1.0.0-api.jar;C:/Users/orlov/.gradle/caches/transforms-2/files-2.1/79ad5e1cc8005e6b98502b49d0e9fa41/asynclayoutinflater-1.0.0-api.jar;C:/Users/orlov/.gradle/caches/transforms-2/files-2.1/3219a3583b63685b3605c3ce0ededbef/core-1.10.1-api.jar;C:/Users/orlov/.gradle/caches/transforms-2/files-2.1/ad09d96b893ebe35b383cb6c5439d4bd/cursoradapter-1.0.0-api.jar;C:/Users/orlov/.gradle/caches/transforms-2/files-2.1/8c2a391ae20d3665e62745fadfd76267/savedstate-1.2.0-api.jar;C:/Users/orlov/.gradle/caches/transforms-2/files-2.1/5031594f6954350a94ae837f8405e67f/cardview-1.0.0-api.jar;C:/Users/orlov/.gradle/caches/transforms-2/files-2.1/12ea7303c0dc5ded58f3fbacab431f19/lifecycle-runtime-2.5.1-api.jar;C:/Users/orlov/.gradle/caches/transforms-2/files-2.1/448c8ceb276993a0a87cb2988e4ccf5a/versionedparcelable-1.1.1-api.jar;C:/Users/orlov/.gradle/caches/transforms-2/files-2.1/6acf02bd368db1a7be2139d1546d67e2/lifecycle-viewmodel-2.5.1-api.jar;C:/Users/orlov/.gradle/caches/modules-2/files-2.1/androidx.collection/collection/1.1.0/1f27220b47669781457de0d600849a5de0e89909/collection-1.1.0.jar;C:/Users/orlov/.gradle/caches/transforms-2/files-2.1/4079b54dc5a809be0d45ccb410fa4bfb/lifecycle-livedata-2.0.0-api.jar;C:/Users/orlov/.gradle/caches/transforms-2/files-2.1/a57fce0b6d3c5c8be8ef3aadab80857f/core-runtime-2.1.0-api.jar;C:/Users/orlov/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.1.0/b3152fc64428c9354344bd89848ecddc09b6f07e/core-common-2.1.0.jar;C:/Users/orlov/.gradle/caches/transforms-2/files-2.1/2dd28a3d9b1045c7ff6cab57bdc32451/lifecycle-livedata-core-2.5.1-api.jar;C:/Users/orlov/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.5.1/1fdb7349701e9cf2f0a69fc10642b6fef6bb3e12/lifecycle-common-2.5.1.jar;C:/Users/orlov/.gradle/caches/transforms-2/files-2.1/2af61ad3da9eaa05e0824354b32d9beb/documentfile-1.0.0-api.jar;C:/Users/orlov/.gradle/caches/transforms-2/files-2.1/03fe021836269145d6b656357c0c09bc/localbroadcastmanager-1.0.0-api.jar;C:/Users/orlov/.gradle/caches/transforms-2/files-2.1/ea2c36cbb9d74e9f9484f69d631a2237/print-1.0.0-api.jar;C:/Users/orlov/.gradle/caches/transforms-2/files-2.1/feb73da62ea72f546bf640aff54d1f8a/interpolator-1.0.0-api.jar;C:/Users/orlov/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation-jvm/1.6.0/a7257339a052df0f91433cf9651231bbb802b502/annotation-jvm-1.6.0.jar;C:/Users/orlov/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/4.9.3/b0b14b3d12980912723fb8b66afb48dcda742fcb/okhttp-4.9.3.jar;C:/Users/orlov/.gradle/caches/transforms-2/files-2.1/ca237ee35a1998d0b848960fad1f0e75/annotation-experimental-1.3.0-api.jar;C:/Users/orlov/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/2.8.0/49b64e09d81c0cc84b267edd0c2fd7df5a64c78c/okio-jvm-2.8.0.jar;C:/Users/orlov/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-jvm/1.6.1/97fd74ccf54a863d221956ffcd21835e168e2aaa/kotlinx-coroutines-core-jvm-1.6.1.jar;C:/Users/orlov/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-android/1.6.1/4e61fcdcc508cbaa37c4a284a50205d7c7767e37/kotlinx-coroutines-android-1.6.1.jar;C:/Users/orlov/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.6.0/baf82c475e9372c25407f3d132439e4aa803b8b8/kotlin-stdlib-jdk8-1.6.0.jar;C:/Users/orlov/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.6.0/da6bdc87391322974a43ccc00a25536ae74dad51/kotlin-stdlib-jdk7-1.6.0.jar;C:/Users/orlov/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.8.10/6d5560a229477df9406943d5feda5618e98eb64c/kotlin-stdlib-1.8.10.jar;C:/Users/orlov/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.8.10/a61b182458550492c12aee66157d7b524a63a5ec/kotlin-stdlib-common-1.8.10.jar;C:/Users/orlov/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar;C:/Users/orlov/.gradle/caches/transforms-2/files-2.1/28fa99497fbc2feff40d94e7c7948418/constraintlayout-2.1.4-api.jar;C:/Users/orlov/AppData/Local/Android/Sdk/platforms/android-32/android.jar;C:/Users/orlov/AppData/Local/Android/Sdk/build-tools/30.0.3/core-lambda-stubs.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="app_debug" />
+          <option name="jvmTarget" value="1.8" />
+          <option name="languageVersion" value="1.5" />
+          <option name="apiVersion" value="1.5" />
+          <option name="pluginClasspaths">
+            <array />
+          </option>
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../../app/build/intermediates/javac/debug/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../app/build/intermediates/javac/debugUnitTest/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../app">
+      <excludeFolder url="file://$MODULE_DIR$/../../../app/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../app/build" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 33, extension level 3 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
